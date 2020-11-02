@@ -1,0 +1,12 @@
+.section-line {
+  -fx-stroke: #363636;
+  -fx-stroke-width: 0.5px;
+}
+
+.consoleSmall > Text {
+    -fx-font-size: 10;
+}
+
+.consoleBig > Text {
+    -fx-font-size: 13;
+}
